@@ -2,7 +2,7 @@
   "apps": [
     {
       "serverURL": "https://api.parse.com/1", // For an app still hosted on Parse.com
-      "appId": "myAppId",
+      "appId": "oMVo1jEWRESQK5KOytehjyHsyIrVMP6DPt2IEhDv",
       "javascriptKey": "7bMusI2dAZ1hPJ8CzBdurpTOReWjk69vUXMZIW0w",
       "restKey": "lKd6H8xoc49vIOwOTbR0eNX7Tyl9YihUmtbCFUgk",
       "appName": "DocWhere",
