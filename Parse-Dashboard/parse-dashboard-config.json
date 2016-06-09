@@ -6,6 +6,7 @@
     "appName": "docwhereiosapp",
     "iconName": ""
   }],
+  "iconsFolder": "icons",
   "users": [
     {
       "user":"docwhere",
