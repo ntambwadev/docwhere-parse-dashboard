@@ -1,10 +1,20 @@
 {
-  "apps": [{
-    "serverURL": "https://docwhereiosapp.herokuapp.com/parse",
-    "appId": "oMVo1jEWRESQK5KOytehjyHsyIrVMP6DPt2IEhDv",
-    "masterKey": "k9lsALW9y8KBUAXQzVOeHkfjo9JzP3VMC5UO57Is",
-    "appName": "docwhereiosapp"
-  }],
+  "apps": [
+    {
+      "serverURL": "https://api.parse.com/1", // For an app still hosted on Parse.com
+      "appId": "myAppId",
+      "javascriptKey": "7bMusI2dAZ1hPJ8CzBdurpTOReWjk69vUXMZIW0w",
+      "restKey": "lKd6H8xoc49vIOwOTbR0eNX7Tyl9YihUmtbCFUgk",
+      "appName": "DocWhere",
+      "production": true
+    },
+    {
+      "serverURL": "https://docwhereiosapp.herokuapp.com/parse",
+      "appId": "oMVo1jEWRESQK5KOytehjyHsyIrVMP6DPt2IEhDv",
+      "masterKey": "k9lsALW9y8KBUAXQzVOeHkfjo9JzP3VMC5UO57Is",
+      "appName": "docwhereiosapp"
+    }
+  ],
   "users": [
     {
       "user":"docwhere",
@@ -12,3 +22,17 @@
     }
   ]
 }
+// {
+//   "apps": [{
+//     "serverURL": "https://docwhereiosapp.herokuapp.com/parse",
+//     "appId": "oMVo1jEWRESQK5KOytehjyHsyIrVMP6DPt2IEhDv",
+//     "masterKey": "k9lsALW9y8KBUAXQzVOeHkfjo9JzP3VMC5UO57Is",
+//     "appName": "docwhereiosapp"
+//   }],
+//   "users": [
+//     {
+//       "user":"docwhere",
+//       "pass":"docwhere123" // change this to something secure
+//     }
+//   ]
+// }
